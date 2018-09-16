@@ -1,4 +1,5 @@
-# creates tiny modules of the pathway analysis scripts and merges them here - can run one script instead of many
+#This master script attempts to identify the combinations of medicinal products most commonly taken by patients in the FAERS database. Furthermore, it identifies significant adverse reactions for each of the medicinal product combinations.
+# This script creates modules of the pathway analysis scripts and merges them here - can run one script instead of many
 
 
 import time
